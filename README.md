@@ -12,3 +12,5 @@ Please do the following steps after cloning the repository
 
 5. You can upload files from page 'http://localhost/wr-directory-listing/public_html/upload-file.php'.
 
+6. Please add full permission for the directory 'wr-directory-listing/public_html/uploads'
+
